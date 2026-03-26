@@ -50,6 +50,3 @@ The model uses a standardized 3-layer CNN architecture to ensure a fair comparis
 
 
 ```bash
-git clone [https://github.com/your-username/CNN-Optimizer-Analysis.git](https://github.com/your-username/CNN-Optimizer-Analysis.git)
-cd CNN-Optimizer-Analysis
-pip install -r requirements.txt
