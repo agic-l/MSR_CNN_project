@@ -47,6 +47,3 @@ The model uses a standardized 3-layer CNN architecture to ensure a fair comparis
 - **AdamW** emerged as the most efficient optimizer, balancing high precision (99.35%) with faster convergence than standard Adam.
 - **Decoupled Weight Decay** in AdamW successfully reduced generalization error.
 - **Adaptive methods** reached >98% accuracy after the very first epoch, significantly outperforming static SGD in early-stage training.
-
-
-```bash
