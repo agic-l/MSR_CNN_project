@@ -1,4 +1,3 @@
-# MSR_CNN_project
 # Comparative Analysis of Optimizer Efficiency for CNN Training on the MNIST Dataset
 ### Evaluating Adaptive and Non-Adaptive Algorithms in a 3-Layer Architecture
 
